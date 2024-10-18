@@ -1,0 +1,9 @@
+All the requirments we are going to use, will be listed in this file.
+opencv-python
+tensorflow          # or torch (if using PyTorch)
+numpy
+pytesseract
+pandas
+matplotlib
+requests
+flask
